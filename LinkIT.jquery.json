@@ -1,0 +1,33 @@
+{
+  "name": "LinkIT",
+  "title": "LinkIT jQuery Plugin",
+  "description": "jQuery plugin to convert any element into a link",
+  "keywords": [
+    "link",
+    "html",
+    "content"
+  ],
+  "version": "0.2.0",
+  "author": {
+    "name": "Kang Kung",
+    "url": "http://kang.pe.hu"
+  },
+  "maintainers": [
+    {
+      "name": "Kang Kung",
+      "email": "kangkung2507@gmail.com",
+      "url": "http://kang.pe.hu"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/kangkung2507/jquery.linkIT/MIT-LICENSE.txt"
+    }
+  ],
+  "homepage": "https://github.com/kangkung2507/jquery.linkIT",
+  "docs": "https://github.com/kangkung2507/jquery.linkIT",
+  "dependencies": {
+    "jquery": ">=1.9"
+  }
+}
